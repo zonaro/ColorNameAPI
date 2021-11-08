@@ -1,2 +1,2 @@
 # ColorNameAPI
-a JSON qith all color names (from wikipedia)
+a JSON with all color names (from wikipedia)
